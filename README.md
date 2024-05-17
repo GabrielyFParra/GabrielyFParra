@@ -6,4 +6,5 @@ Meu nome é Gabriely Parra
 - Estou me desenvolvendo na linguagem JavaScript, HTML, c#.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-  ### Você 
+  ### Você pode entrar em contato comigo
+  
